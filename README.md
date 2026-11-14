@@ -114,5 +114,5 @@ A Purchase ID audit and the data-quality caveats behind the numbers.
 
 ## Author
 
-**Janani Shivram**, Marketing Analyst and BI Lead (Google Analystics, Microsoft DP-600, PL-300 certified).
+**Janani Shivram**, Marketing Analyst and BI Lead (Google Analytics, Microsoft DP-600, PL-300 certified).
 [LinkedIn](https://www.linkedin.com/in/janani-shivram-100/)
