@@ -1,5 +1,3 @@
-# cja-omnichannel-analysis_adobe-customer-journey-analytics
-
 # Omni-Channel Customer Analysis in Adobe Customer Journey Analytics
 
 A hands-on project built in **Adobe Customer Journey Analytics (CJA) Analysis Workspace**, using Adobe's omni-channel retail demo dataset. I designed the segments, calculated metrics and visualizations myself, then used them to analyse how customers buy across web, app, call center and store.
