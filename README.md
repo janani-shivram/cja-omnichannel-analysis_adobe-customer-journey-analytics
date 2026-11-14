@@ -6,7 +6,7 @@ A hands-on project built in **Adobe Customer Journey Analytics (CJA) Analysis Wo
 
 ## View the live project in Adobe CJA
 
-**[Open the CJA project](PASTE-YOUR-PROJECT-LINK-HERE)**
+**https://analytics.adobe.com/?linkId=3b4c3879-ebab-4a02-91c2-c9d5595a9b6e&dpc=acc**
 
 > ⚠️ **Sign-in required.** The live report sits inside Adobe Experience Cloud. To open it you need to sign in with an Adobe ID that has access to the Adobe organization where it was built. If you don't have access, the screenshots below show every panel of the report.
 
@@ -112,4 +112,4 @@ A Purchase ID audit and the data-quality caveats behind the numbers.
 ## Author
 
 **Janani Shivram**, BI and data analytics consultant (Microsoft DP-600, PL-300 certified).
-[LinkedIn](PASTE-YOUR-LINKEDIN-URL-HERE)
+[LinkedIn](https://www.linkedin.com/in/janani-shivram-100/)
