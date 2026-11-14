@@ -36,29 +36,30 @@ Segment size and value, with revenue-per-person and orders-per-person charts bui
 
 **Segment validation.** I checked that the three segments add up exactly to total orders (117,021), so every buyer falls in exactly one group.
 
-![Segment validation table](images/03-segment-validation-table.png)
+<img width="693" height="177" alt="03-segment-validation-table" src="https://github.com/user-attachments/assets/e708d05d-21eb-4517-9171-6235a588562d" />
 
 ### Panel 2: Channel value
 Orders and revenue by sales channel (web, app, call center, store).
 
 ![Panel 2: Channel value](images/10-panel2-channel-value.png)
 
+
 ### Panel 3: Checkout to completion
 A journey canvas from checkout to completion in each channel, plus a person-level fallout comparing segments.
 
-![Panel 3: Checkout journey and fallout](images/04-panel3-checkout-journey.png)
+<img width="3450" height="5060" alt="04-panel3-checkout-journey" src="https://github.com/user-attachments/assets/378241ae-aca9-4fd5-ab90-0ed7897ec37b" />
 
 ### Panel 4: Where the money is
 Orders vs revenue by marketing channel, and average order value by sales channel for each day.
 
-![Panel 4: Marketing channel and AOV](images/05-panel4-marketing-channel-and-aov.png)
+<img width="3450" height="3000" alt="05-panel4-marketing-channel-and-aov" src="https://github.com/user-attachments/assets/048818e2-02b4-4bfa-9b0e-eb3c45ca1438" />
 
-![Panel 4: AOV tables and unattributed revenue](images/06-panel4-aov-tables-unattributed.png)
+<img width="3450" height="2770" alt="06-panel4-aov-tables-unattributed" src="https://github.com/user-attachments/assets/4462c761-dd76-4b30-9a62-c402f7fe4dd2" />
 
 ### Panel 5: Data notes
 A Purchase ID audit and the data-quality caveats behind the numbers.
 
-![Panel 5: Data notes](images/07-panel5-data-notes.png)
+<img width="3450" height="1200" alt="07-panel5-data-notes" src="https://github.com/user-attachments/assets/497406bf-5fb6-473f-a6c5-8ee89ac6f524" />
 
 ---
 
@@ -73,9 +74,10 @@ A Purchase ID audit and the data-quality caveats behind the numbers.
 | Multi-channel buyers | Online Orders exists AND (Call Center Orders exists OR POS Orders exists) | none |
 | Web Order (event) | Event container: Interaction Channel = Website OR Mobile Web, AND Total Orders exists | none |
 
-![Store/assisted-only segment definition](images/08-segment-store-assisted-only.png)
+<img width="661" height="374" alt="08-segment-store-assisted-only" src="https://github.com/user-attachments/assets/9f0bef2b-b721-4a98-b201-3642076ee3ed" />
 
-![Web Order (event) segment definition](images/09-segment-web-order-event.png)
+<img width="512" height="323" alt="09-segment-web-order-event" src="https://github.com/user-attachments/assets/973ba592-5778-4bae-aa5f-d132e0080bcb" />
+
 
 ### Calculated metrics
 
