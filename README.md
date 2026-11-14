@@ -41,7 +41,7 @@ Segment size and value, with revenue-per-person and orders-per-person charts bui
 ### Panel 2: Channel value
 Orders and revenue by sales channel (web, app, call center, store).
 
-![Panel 2: Channel value](images/10-panel2-channel-value.png)
+<img width="2968" height="2040" alt="10-panel2-channel-value" src="https://github.com/user-attachments/assets/ba0db93d-c07f-4616-92e6-ed553fd340f8" />
 
 
 ### Panel 3: Checkout to completion
