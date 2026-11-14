@@ -31,7 +31,8 @@ A hands-on project built in **Adobe Customer Journey Analytics (CJA) Analysis Wo
 ### Panel 1: Customer segments
 Segment size and value, with revenue-per-person and orders-per-person charts built from calculated metrics.
 
-![Panel 1: Customer segments](images/02-panel1-customer-segments.png)
+<img width="3450" height="2810" alt="02-panel1-customer-segments" src="https://github.com/user-attachments/assets/619ce027-aadc-4ecf-a9e2-2017dbf24c27" />
+
 
 **Segment validation.** I checked that the three segments add up exactly to total orders (117,021), so every buyer falls in exactly one group.
 
